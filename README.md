@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Author](#author)
+* [Author](#author's)
 * [Screenshots](#screenshots)
 
 ## General info
