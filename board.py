@@ -71,7 +71,7 @@ class Board:
 
     # metoda
     def draw(self, level, b):
-
+        self.player.x, self.player.y = 40, 40
         # self.start_ticks = py.time.get_ticks()
 
         file = open(str(level), "r").read().split('\n')
@@ -116,6 +116,8 @@ class Board:
 
         self.seconds = 200
         milliseconds = 0
+
+        config.screen.blit(self.player.image_start, (40, 40))
 
         while self.running:
 
