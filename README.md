@@ -20,11 +20,10 @@ To open and run this project, follow this commands:
 2. cd Bomberman
 3. python main.py
 
-## Author
-* **[Karol Wlazło](https://github.com/wlazlok
-)**
+## Author's
+* **[Karol Wlazło](https://github.com/wlazlok)**
 * **email:** kwlazo9@gmail.com
-
+* **[Marcin Drelewski](https://github.com/Miatosz)**
 ## Screenshots
 ![Title screen](./images/bomberman_title.PNG)
 ![Board](./images/bomberman_board.PNG)
